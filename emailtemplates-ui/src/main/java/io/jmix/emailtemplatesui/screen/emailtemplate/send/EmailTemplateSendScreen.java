@@ -46,7 +46,7 @@ import io.jmix.ui.component.*;
 import io.jmix.ui.download.ByteArrayDataProvider;
 import io.jmix.ui.download.Downloader;
 import io.jmix.ui.model.InstanceContainer;
-import io.jmix.ui.property.UiScreensProperties;
+import io.jmix.ui.UiScreensProperties;
 import io.jmix.ui.screen.*;
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang3.BooleanUtils;
